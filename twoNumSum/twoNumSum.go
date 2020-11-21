@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+//This is the optimal solution with time and space complexity of O(n)
+
 //TwoNumberSum is the function to print the the numbers that sum up to give the target sum
 func TwoNumberSum(array []int, target int) []int {
 	numsMap := map[int]bool{}

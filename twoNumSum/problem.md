@@ -24,5 +24,5 @@ targetSum = 10
 ## Sample Output
 
 ```
-[-1, 11] // the numbers could be in reverse order</span>
+[-1, 11] // the numbers could be in reverse order
 ```
